@@ -1,4 +1,4 @@
-# Company Order Form Application
+# Order Form Application
 
 Welcome to the Order Form repository! This application is a tailor-made solution crafted for businesses seeking an efficient and modern approach to order management. Built with industry-leading technologies, this order form application offers a seamless and secure ordering experience.
 
