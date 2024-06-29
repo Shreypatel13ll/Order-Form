@@ -34,3 +34,5 @@ This repository serves as a showcase for the Order Form application. The actual 
 - **Backend:** Express
 - **Database:** PostgreSQL
 - **Deployment:** Digital Ocean
+
+Developed for [Rosewood Laminates](http://www.rosewoodlaminates.com/)
