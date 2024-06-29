@@ -35,14 +35,6 @@ This repository serves as a showcase for the Order Form application. The actual 
 - **Database:** PostgreSQL
 - **Deployment:** Digital Ocean
 
-## How to Get Started:
-
-Explore the capabilities of our order form application:
-
-2. **View Screenshots:** Check out the screenshots in the `docs` directory to get a glimpse of the application's user interface.
-
-3. **Features Showcase:** Explore the `features` directory for a detailed showcase of the application's key features and functionalities.
-
 ## Deployment:
 
 Interested in deploying this application for your business? Reach out to us for a personalized deployment guide and support.
