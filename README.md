@@ -34,9 +34,3 @@ This repository serves as a showcase for the Order Form application. The actual 
 - **Backend:** Express
 - **Database:** PostgreSQL
 - **Deployment:** Digital Ocean
-
-## Deployment:
-
-Interested in deploying this application for your business? Reach out to us for a personalized deployment guide and support.
-
-For inquiries and customization requests, contact our team at [shrey1patel2@gmail.com](mailto:shrey1patel2@gmail.com).
